@@ -1,0 +1,11 @@
+# venv
+venv
+
+# pycache
+__pycache__
+
+# setting for mac
+.DS_Store
+
+# environment
+.env

@@ -1,0 +1,144 @@
+{
+	"results": [
+		{
+			"start_time": "2023-03-28T01:00:00+09:00",
+			"end_time": "2023-03-29T17:00:00+09:00",
+			"stage": {
+				"id": 0,
+				"name": "難破船ドン・ブラコ",
+				"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_0.png?Expires=1704844800&Signature=Y7VGsQUdZXpHF3ZprNtRqC-koFbG8rD93MNlJQHMSztaefRwhYRoJVh0~9OjlVXNXo9o4EF2GpQRZHrvztdHCwooSJKgw~VJpD3v~544bD5JEAxePEnLJi5jynpdnynj8qFeo-0CU56vz-RLfAKUpSd~BWCP-GfbWy7xSPsZ~PG~MulrTK~hKuHzQvyv8h0ZPu-xX5qtSERccd62-xtS1I7eiwTsPOBVQehsXp-HnRo4xx-EJks0efZvQLRlfFkQKQqdwZWbubpOK10jwV~Xz3Rq6ewloWQ-4VPhGoXW5BzAfDYSkUp6VmgQZyXXl6dKDw1ECAwdFBazxYJmee8qTQ__&Key-Pair-Id=KNBS2THMRC385"
+			},
+			"weapons": [
+				{
+					"name": "ノヴァブラスター",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/10d4a1584d1428cb164ddfbc5febc9b1e77fd05e2e9ed9de851838a94d202c15_0.png?Expires=1704844800&Signature=vBQU5JqB5AGiPkK0Tq~6SGhXx6ZoygBY-kfK403TiE2W4LbJA9Py7LnCu7~iH06pROIzk~uyZ7kjMmQJtHcbxHNfiIKcqasUXziTqebXeLQ3PzwHDTo52NKmZ6glZ4m37hz2y93Xr7GbaswWLlc-hn2-5kbAjrniqHwSlDOKjXYysWbH4ksLsBdEC8po1MEJNIzNQ9DwaM55P~cLqU5zoBVRBWO5eyq2fUaYTvhvoWD1j0NfvibjlB62N6JMkgufyYzSZgYQ6FI8FOpigAj~sTxQOUuV5KRG46XdYZjQBRfN3b8o48OhifoDBCVpt8V7iXTFysfPur3BIAauLRi-dQ__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "わかばシューター",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/8e134a80cd54f4235329493afd43ff754b367a65e460facfcca862b174754b0e_0.png?Expires=1704844800&Signature=au~ZRtplZRuQ9rBWP7rMmBZMY27Z9bbm99sLdXZQQt6ThgZWpQ9nPrUZspB2ll-sxDrk5xh8xPT2-YBOxYoyI8TsQpV0Oz33EyS6C4WxumT9ZvLGhil3-b6jC3vezBvIDteZ9H5Q-VYYqCe6WDaDYTaDgvBs0XINaz0mdKgX4RYZqBS1H7oo50HwpD2iGRwv17irX-3RfZvTZn9S-btyQ6CNm7Wg-CtQdjaTHtxOMyXmggyfMjyHFeyZbXpehPdVty1WQeasa8dvKJQhhSqSZu4xKLa5P4rp6RH15gK7ar1Ry1d760eFG7w0fZTIrA0EV2romMSn3JBO37G~I4hhbA__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "パラシェルター",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/15d101d0d11acbb8159e2701282879f2617d90c8573fd2f2239807721ff54ca4_0.png?Expires=1704844800&Signature=n04Yp06bF7fqFQXuWUns0WLrGMcEJJSTicVJg1RpCzlizKiuxcb8xawmbFI9cOXduJElqAE6D~YKz9xtK4qg1tzW5lB8EuH9nzDZcb-dS7QhHC93~rjdnUJ0HnNAEkO886ZITH6r1l2h1W2MrWdEXCIptMaqH481~xOpP2f4wQq9pgyGip9Y1druA2fCA17ULub2tngdItZfYhld8SehQjK5B346hHMTFJqT74fCeE7GG6acUaQbRyfrWHPBXM1WNeW7Otlqgf-5v9EsgSkQE9SD8tkRbMte2oAt5CmaJgrDH6Kidr3kmUb4eYH9xIwgoeZU22yNifeJ-aZC5wipHA__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "スクイックリンα",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/0cdd6036a6677d68bf28e1014b09a6f5a043e969027e532cd008049baace6527_0.png?Expires=1704844800&Signature=ONufU5bXQVmr1vxYJT4PPDww0dbXYSgze5aABc64DEDjIvg2Ihl7EVes8FEn046hGNnxC9f-5uOOH-ZEFtHy9n5os9srL9GfAKqNIC~7ITkTef1vT9~9ptN9dpfGhvC1gswiGt7jbnYE57iB89KOBK-9whJ~vYwGZb4cAcEynNfWWjeVcDRfjnRsVT2Pz-Wh95tbfTUcuYg3BA6KQtaNGAxfYkatgZLeS1EQ8WOwEO6mnFNNXb0pUQep1Mnnj9Sm0GyW-aTfXBIxDSO0P5ULVox0IBbIZgtqVMkDwupt7hp6dDAreFiQk8JN85kFzbP5i8DGjRtByHCiYQCf8oHC2g__&Key-Pair-Id=KNBS2THMRC385"
+				}
+			],
+			"is_big_run": false
+		},
+		{
+			"start_time": "2023-03-29T17:00:00+09:00",
+			"end_time": "2023-03-31T09:00:00+09:00",
+			"stage": {
+				"id": 0,
+				"name": "シェケナダム",
+				"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/be584c7c7f547b8cbac318617f646680541f88071bc71db73cd461eb3ea6326e_0.png?Expires=1704844800&Signature=OvQezASpe5jQMcNYfFB-acB-g7D8NvKMVzpZeLjdj3Z3yHHRr1Q8DKvmFYVFEEVMtxUVTO9kKnhM2bjXhorYLssAo8hAidZ8RYmbROvY2ewwZBOytarqdtthNv46nKxgmBVz17m0j-FI4XjcikepRMa1mfZBXbX9ZK2lisFC3m0BFmxs7-dm2ZG6yGq~frdLMyLTABDF0Rqe6DmewdwWdo91E5X9-URkWMH9qSqj59FPbMljBymCr5PDNyQvOis0nKsd8KYbKQmqKiovEpFE6yD16j1sTz8M0i9NIHQICgftvVJyxAkDcVOvSV6MxVISUeWGnpYpUkU6NSGd5WY5Kw__&Key-Pair-Id=KNBS2THMRC385"
+			},
+			"weapons": [
+				{
+					"name": "スパッタリー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/f1c8fc32bd90fc9258dc17e9f9bcfd5e6498f6e283709bf1896b78193b8e39e9_0.png?Expires=1704844800&Signature=dCOnGUXMKGVVzlwYD4N2yDMYMgAdCULelSmnmSTdnXC~vxD25edgEEfELag-D4Oz10X5zEiXIEoeJ5lsNC2Iu0AHG6A3B4-PHpcH-hwE8XoIiAtv~oQc6LoppRuOre9xMU5qMmwRRc2bcZ-1Iq8ioLHMj~vAbrRWXwtwasjEuZgwpzCvLQCLeAs~1~hP-d1L3tOzXWMNvzxtFVZ8ARGuaUX9Is3lx-jR0N2R8koB11SSx~~HqHjiakOeiGjfk26nuOZ9w0adIqr4taApnksdD4~8cXidZD7FSrBfrN9FB60oVTPQNWYcVc87ilshwHTojKALJ984ZXcj3wDp5fUoOw__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "L3リールガン",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/96833fc0f74242cd2bc73b241aab8a00d499ce9f6557722ef6503e12af8979f4_0.png?Expires=1704844800&Signature=Ys6FiyiDvxZhPqQ71LmlR82RGeQLDF2LE4Fo8Ojpdj-QXklFskt6~9OquCICXZsLolunOw0OVNMX8kLHo2hEeWMIHp3W-y5qj5T81JUqvQt~TjvdADO1b6Afiai43YYsufJ1cOCSY~3PylsZjoxwKjVPyZnMJcQHKUb8aM6fdy9~vXDsAiIqinpFLminO-jl-20kEYsF7KTaIGIW7AMn0gwYUb9FxkoJpZ1sXgPUL6rzHajccLSpUGNVq4mLM2Cjab2WtFVoFMlJKhIE3k-r3Bw5Euyvtjz7C-GgI6y0zRFMKkAeUaDSWZBKCYRSPn6Hf-eki5Xj5-xwttSSGeKJnw__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ダイナモローラー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/18fdddee9c918842f076c10f12e46d891aca302d2677bf968ee2fe4e65b831a8_0.png?Expires=1704844800&Signature=J~Fybx8q9TQ9WuCNH-u7zsuXgKxvV4XaayEw0Dh2iOJ5Zlmn6w1tuKRCrbObfBiyem1OJoo7u8inF86jbnMPXLaKmWJqJRwsprd8b-W7IKkSKkMQ56n9lQdGAkXmApNlig1FtlkCnDi2X08zlSLzavaHlqk9KOmxq735mFp1ltj0H-~Mdjk8I~px1x3lGM9KwuZNB9SKzaf5jUiEFHHQ4JkyMeOtMf9vt5gb0IU1v-QfJpnpHnZR3LHrpEJVrNHJal7gOhRUwyrmdaXau52~0QTU1zJmhvWqJ8x5w~po5xDcu76~hKzmQ20sMwXC2SAVjaxKMMGtx-0LxHksiDw5cQ__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "トライストリンガー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/676d9f49276f171a93ac06646c0fbdfbeb8c3d0284a057aee306404a6034ffef_0.png?Expires=1704844800&Signature=KCYJWaXXFW4pa3IJYpvasTTg~~Re5LeBuO6UnjIeTe1E4QvGWNj-I9PZf3Rx3GMw9NkFP44NRi8bkBdUpoK3MRKZRwW2tavBrRqZuaeCuT9ij~NAvNL50r6pgo4tdowWE-tENw1HCCVf68IGrMMDH7dcsoYufTvzcsOUupH5rHS3-Zi6MB3M35PFLtQDxaMFAMivH-rhzw6gjXV~JGgHuHl0IiYCBiRWYow98Y4u02GxzNL4ALIjmwlxpPAKXAnp9-iZ-t4-4cjB-jw0V-sutg1FXJgptykaCNV301uM5dQyxKdqUCI~WKvgl-3C1DvOvnNvtf41eH8jpOSNLztrGw__&Key-Pair-Id=KNBS2THMRC385"
+				}
+			],
+			"is_big_run": false
+		},
+		{
+			"start_time": "2023-03-31T09:00:00+09:00",
+			"end_time": "2023-04-02T01:00:00+09:00",
+			"stage": {
+				"id": 0,
+				"name": "アラマキ砦",
+				"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/3418d2d89ef84288c78915b9acb63b4ad48df7bfcb48c27d6597920787e147ec_0.png?Expires=1704844800&Signature=bz2FRmz7ntZgZo5Zgbbf1rUlOneSN-RIHUM7fHkf3IVSAdZE-kZRfrxfN~6eV-bKqqmt654TAPi3DvSCZZaSyPLHB2yu~EURtA1fll5P61bvpgjM1w2NoEIfPytFMZD18nWnZ145AEBpRQk92-IcX9v51PZ2JhQ8~Z6f4Mgz0BcTbRjeRmdCApoGsQcAlWsAMXK~jvGSdCMJpF1Vp-i3PYvBV5KDi0drhp8L0i1mOntJxRUr9U34P6rUNfCeBQ9C1ZqVIY0sd6h9Tf8tEP359LMstnKB9czoJdyiaXl5Xq38fzA2nrewUlvaK2qcYageOzJlAnzl6vQm07UgaAUg0Q__&Key-Pair-Id=KNBS2THMRC385"
+			},
+			"weapons": [
+				{
+					"name": "スプラマニューバー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/b43978029ea582de3aca34549cafd810df20082b94104634093392e11e30d9bd_0.png?Expires=1704844800&Signature=cBQI8zfTNxNJ48MAAaqfpdN~f5x2q~oK-~8v1KGaYtrYjEId6tYVU5V17o5ayDLnpdKXlpLvSd2DZrldsW7EHDw~-hgaqBy4sNtktWM7fBb2L5R9TS8xQqXjjB1koU1cXAUXD5yrWwW9Stja9X2pQRzNZz-vOrFQ13cOJ~-LskKUZNShfhnGeyMY-wDZ4OAhTGioU2flo8R5MtY6eZbVECa299XobkhF5XzpAgeOPNHjA5oQ5SIT2lRLrmYtluW-6oO9vkq6qGPOv9SR6GfdbXdRsJe0QR1JA9Wyu94dzA4oCYgZ8QC68sBvc2075LGd5rJy-tAkW52SAftrtP3QZA__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ジムワイパー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/ddd2a4258a70cdaf8a1dbc0ded024db497445d71f950fe7645fa8c69a178a082_0.png?Expires=1704844800&Signature=CuvPlq26Vix8my-5ESc-8xMtghoQNuGGG9eJhFQQbaWcegek-gSbp6SzLPtiWE0uGmcl6qvE5XzDLrPRHwwfTDGWxw8vuMuRXKhBeOhu6Qp1lMMg1fpL2N4NOq~pPVPpEuNVrJ05hD7egwOPDj4AoB9BbtDZXeFomI4UqVSbn~2RqRb0V4NrcRv4oQmEF8sCa5G3bvmJ3VVRdzfQWaBpIf6eLYMtsGTd2vUc-aveAJfN373fiUKwdhtcCYsjggqbPjPBtfopjFKrW7TEmfqmZysrfzvqA75LzmwMS3RKkG3etutWJ60CI0m-zpinrWBQ6Q5F0~BiOEts9LRyVTP0EQ__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "プライムシューター",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/5607f7014bbc7339feeb67218c05ef19c7a466152b1bd056a899b955127ea433_0.png?Expires=1704844800&Signature=A5zk09coYi0X~zTlucBO4KqsG707ieiPMD29pNKj3mbAoYaTL7vWbwT-pAPfJudcIS9mOZVUseyu1~vtQHDpriO5HbgibDjs5ydKNd~h0az5HvDQ7HpVOb9wCxxWJJnaOKadq4~iFBTtYK1zlqf-KNI-8NkZLbVxkp7suE2Z1e3IK0lzAfPWMTcQWQluWOBMWbgARxTXFkOaGd6T3RSI6LlgmJHYn9FhpnOb3BGqMC4uDd3ROy6RMP5Qwf16drG5jrBRkEZar8uNkhgT4OBLu3Gexmfpl4ezky7sRSV2S2a1LEb77lcSBxL1lBI4sz72Kyd4o8En9HuPT6td8ryV7Q__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ハイドラント",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/34fe0401b6f6a0b09839696fc820ece9570a9d56e3a746b65f0604dec91a9920_0.png?Expires=1704844800&Signature=cDY0Ukwzpw7~5oAzcMZkpLz5FyNPE5T6sdHL7PiWFtgCmyk73aFK3sEz6FyXzbPLXCEQuBWdskU6DzZr0kE~wN98Y5pIf-G1dTbJZrw9ZZ5oxp4zKhLobfaA5KR-ETFZBfgJluQz7bfqbsEPZNHMX5m953ZdIUsaNCuMxvLpDgJh0iyz2RD~Xpm7i5Qm0-CUG37zw~hKEli0aY7VPV9entnnp58T-F91BBvTiNSyhbJhzxwOGZjOutKUr2zrL-eBKK2fYo6TGoCWV1WeyXla554XhygFGlREEM4lkp6~WKycsmEaV~IPUuSMDrW0xHBYomaU88XE4b4vyLcLySQfQA__&Key-Pair-Id=KNBS2THMRC385"
+				}
+			],
+			"is_big_run": false
+		},
+		{
+			"start_time": "2023-04-02T01:00:00+09:00",
+			"end_time": "2023-04-03T17:00:00+09:00",
+			"stage": {
+				"id": 0,
+				"name": "難破船ドン・ブラコ",
+				"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/1a29476c1ab5fdbc813e2df99cd290ce56dfe29755b97f671a7250e5f77f4961_0.png?Expires=1704844800&Signature=Y7VGsQUdZXpHF3ZprNtRqC-koFbG8rD93MNlJQHMSztaefRwhYRoJVh0~9OjlVXNXo9o4EF2GpQRZHrvztdHCwooSJKgw~VJpD3v~544bD5JEAxePEnLJi5jynpdnynj8qFeo-0CU56vz-RLfAKUpSd~BWCP-GfbWy7xSPsZ~PG~MulrTK~hKuHzQvyv8h0ZPu-xX5qtSERccd62-xtS1I7eiwTsPOBVQehsXp-HnRo4xx-EJks0efZvQLRlfFkQKQqdwZWbubpOK10jwV~Xz3Rq6ewloWQ-4VPhGoXW5BzAfDYSkUp6VmgQZyXXl6dKDw1ECAwdFBazxYJmee8qTQ__&Key-Pair-Id=KNBS2THMRC385"
+			},
+			"weapons": [
+				{
+					"name": "シャープマーカー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/25e98eaba1e17308db191b740d9b89e6a977bfcd37c8dc1d65883731c0c72609_0.png?Expires=1704844800&Signature=kmeKJENcH9GKTeWC~pbDlCp7MrjP4csSDpGznZDpwzbOdm3d5VJ8PLolLQIhp0SymW7PuMF4rxAvY9jHHqu5rHltOJH9yO-prXudAUcUPmVSPDYP7o8s9mf2znpoXk3oGS3kylZT2c-KXfQZlez8oNnaj4YbkJircB8KZUXhUG1~oXcPdu46~l5~x~srPHTw2GXx8V~-y1MGJOANJUp~Erig4R82LeKiPAYJGWQvI1MzvfPNew0Q1TVOs9gKFuF6p1Jlv8Yvi17yymSYV7Z3b8m9IZSVrFz~cMWl9aHSxcN2er-yO1VIE9cs~qaEBXfVG1TMfEFZkZI5VemBs-6emg__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "クアッドホッパーブラック",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/e68609e51d30dfb13e1ea996e46995ed1f7cf561caef0fe96314966d0a039109_0.png?Expires=1704844800&Signature=Jh-xT10a-IchDF557-5QYrJZTYHjj8Ic1E8bfw3oU0bc8inq3y84nN0D284frsaTj2GM2BXvW6DJGchU18tcFLoM2it9UrRuKeV3P5miQQMKXxa2IL0-H6~sfR2CWrf-zuxukoSmLm-l4oWmLzNr1AM2-vW~55KzkGfh8PK6bhRucgHlueAaCWzTOkOkpV9x9UgnYdzhNJ4YskuX1LJoXHdUWuTSzJBPQ4Ys~l4av6MNZfSUUIuiSAopl-YKESBq-NYm6AwxsPQWHc8OoqjLLnwOzCUbcEsJrb5w2F5w35KivVevEzMdPvtl-KBI8GYwt~Yl--1PEy8ZHbqXOyCnDg__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ドライブワイパー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/3aa72d418643038a9e3248af734b0d6a0bf3d3bf9793d75912b1b959f93c2258_0.png?Expires=1704844800&Signature=GuDQ5NDwktGPMWalOLv~UKM6z8U2zHaggaSh80ggFU1ZNQWPzXlT~2gMD6029lEZbQbChROpdCmq1f~lL5S97iIjYBJBwBR-YjLISowzU5mNTwNc-2JCJdGONejKwoFp5HcwYpbk2nzLdogXsLvnANahc50rkt84tx5ZhzaBTLAl3GDBNlWHqYicpxWpM8EOQ2SfS2bNemEz2A767qnD4WwSORCQYg5~Fw2QF-7bgv2oUeJagNpD6ydNPGkCyQ1qZRUDbMJNn3cVAoXJffRKf8mfB9vH6x9kEnCZ8VUKBtwjnof19ahJQgtLcXTOo1aT1PNJGt36gKmeAUuxHAiEPA__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "リッター4K",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/ed294b2c7b3111988d577d7efddb9e5e475efc5e0932e5416efedc41fd98eb04_0.png?Expires=1704844800&Signature=qJPg~l2q--2GNw9KoxQyISS3~Xe~xYMuWZagYLuGm5u6qGK3OZqpnxtAsXzczjveXkSrqTMSr67xsyiMx2AXywjei8dsNyuq44tY14cQla~gfWYO44KMF~o02qT0speuJpQUmQo6uUmVjdxnyrV7b3bp-HwofxlomDMotHHPlolQg27QpZSU4oakgCU918KwacCzKYJbGdVet7xVS1hBJmnc7RPLfUS1oOcpDAVX6dtl8tnL~PWzYP7vPgFPeT1J9jSOk7K~TytXvetlHK6~wr56Om2qxxMCa3KqrtiuEnVP4p-wjH8S4n8gBEDOZICxsC2qI9-whzt2MSTPwK2oDg__&Key-Pair-Id=KNBS2THMRC385"
+				}
+			],
+			"is_big_run": false
+		},
+		{
+			"start_time": "2023-04-03T17:00:00+09:00",
+			"end_time": "2023-04-05T09:00:00+09:00",
+			"stage": {
+				"id": 0,
+				"name": "ムニ・エール海洋発電所",
+				"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/stage_img/icon/high_resolution/f1e4df4cff1dc5e0acc66a9654fecf949224f7e4f6bd36305d4600ac3fa3db7b_0.png?Expires=1704844800&Signature=fXorbPsWQ~aQXIYAekJil-7MFGhOaC5LIp7n1i03Tq4~C7n3FcigrUNF6SnN4E-3EE5ePDB-x37BmmKYtnm6N7-cTWd1CH5-NJsExxw9gafnIgONWoqX3DHnQFj0jbhLoZBsDy6IinAjd3mmxO80t64AVwcCuzNzquGfSn2r9ylxd3Ctk89N1JnEaaXmkUmZG2xsBA8jvUWAD-2j7lt7eFtxJwM5maPIkxJAUO~kUyOx9nz9RmcFrpScFgeMXjaERO4NAbsBZIx0DJ~atFavbViWWc~uGilV6vy8hvRZPv6RfjFBZritCbZBl5B7XeVwH3kRFQ7mPYJK3wEWM99oRA__&Key-Pair-Id=KNBS2THMRC385"
+			},
+			"weapons": [
+				{
+					"name": "ケルビン525",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/802d3d501738c620b4f709203ccad343490bd3340b2fda21eb38a362320dc6ed_0.png?Expires=1704844800&Signature=hCG0gBsfEcZV3KgxXWuQAB4H~eZU4OAN~fDg4gYoXnsbWlFzy1ADCl~O0l1KxQnnjuN8XDv773gJHRrbTZCCTiqewQi52tEecfFiVVpHmtps-9Vm0iTsapepMFOkaqVkleRZGkcAECtzuK1wT3uaqDze298Sm~RzI8LO-itzNtND25aO-G5FOmtWUxJCyN94NbBfG2IHdu5XfiYigy52QaBc4i4npaWaEB2~PU9SI2P3WVjByl-ZOEQzXp0cKC7OngCWnenFW6arwz41wGevubD6dmnoPxgQLgcqcT8NIX5THNGeoMweN3CqvqGdyFDtmDQmw2lwddhQwFj2ixDTmA__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ボトルガイザー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/db9f2ff8fab9f74c05c7589d43f132eacbff94154dcc20e09c864fced36d4d95_0.png?Expires=1704844800&Signature=YwZtpNGNgRJX7rZbPogAwATYO~9Xcjy0MTGmv6tSH-wobK2f79gLT6u~u4RtCUgavbUPPpCgzGJenQLfVrShVqsFSfFLmxDOOYPFFJ68nKAlpHJLWlg2WfFcLSgYx8-0SCcyeK0x7w8Qppm~jKrZCWsamec-Vc3L1xem9A5isHPUreoCWXR9-dukiFCadQygqo15668g3t6opCz75mKLaUh9kUHqz4CfaaVXDikKRLbGF17XW5ZM4~x4A~aJulVBZrwEhETXDcMmqRptZsVkAchztxW82n0toyQUNcBIKgWS1AzBPLj6l4us3v7vKU2I5XRB8YLexgqkoHpDCRYn~Q__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ノーチラス47",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/be4316928f4b031b470ec2cc2c48fb922a303c882802e32d7fa802249edaa212_0.png?Expires=1704844800&Signature=stgg~CtePynNH~HeCEAQeZa2jswx2FU~0m8yEssS2cSqlBkHUxbiJqigZ3XL1d3b3cmw-KbKOlDRak3v6t-ceT-qG8XV70zzoTmNFmZs-QIxCvFUNlfHFNT1QR4uZAyzS8DaM5GxV5nLzCk-5SiSOczNeDW9tiLpH37IdLll3GBRm9sbNhHyN6z3b1KUw19ls24mzlxdFobxclQplpvyIaD2S-AP1PEo2yM9bPXwKc8cb4zwlOSlQ0Djp8eb2FabDoKyQ2fja8h1U8EMY0NUUxQcnSl24S4xEkD4n0EyKPwbI7zqaG2D8~VmmWSMfmsrmdTiz-zBhxrIezZyJgka1w__&Key-Pair-Id=KNBS2THMRC385"
+				},
+				{
+					"name": "ジェットスイーパー",
+					"image": "https://api.lp1.av5ja.srv.nintendo.net/resources/prod/v1/weapon_illust/035920eb9428955c25aecb8a56c2b1b58f3e322af3657d921db1778de4b80c59_0.png?Expires=1704844800&Signature=ljM0Lp4uwCQk0ZTised28lQTkCpd9C7ayGaF08PPVRg1sXe02eoaF8KjQjHvmcRzg3kMHXumo4XWX-18-aKGj2PY0AmVUygimxCiboGfQAjUTdAjA~8zX09OIGXZII6vRAX7XH~I-IeUfocAW-myOtB8SGFe6BY~aqWByWfD~QYytP1affXMLFd8uY5zxKizvFbQdQO~Fcs86i2qCYHRa8qLbWGlecA9dP6R5H1Cv5Sdy3BDNRZ1S5~8DY3qMKt9OStlN6rK-4l-kUnK9O2xUzsFUW5GAQViNu~NS~XYD9VJgUaL5fn7hy30bSZtzEw7j5mwIj41-iDrSNECJHdeag__&Key-Pair-Id=KNBS2THMRC385"
+				}
+			],
+			"is_big_run": false
+		}
+	]
+}

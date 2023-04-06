@@ -1,0 +1,10 @@
+version: '3'
+services:
+  create-ikaring3-data-for-alexa:
+    build: .
+    ports:
+      - "9000:8080"
+    volumes:
+      - ./:/var/task
+    env_file:
+      - .env
