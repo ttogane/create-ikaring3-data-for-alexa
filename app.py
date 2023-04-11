@@ -11,7 +11,7 @@ USER_AGENT = os.getenv("USER_AGENT")
 BATTLE_SCHEDULE_TABLE = "splatoon3-battle-schedules"
 
 class BattleType(Enum):
-  REGULAR = "ナワバリバトル"
+  REGULAR = "レギュラーマッチ"
   CHALLENGE = "バンカラマッチ(チャレンジ)"
   OPEN = "バンカラマッチ(オープン)"
   X = "Xマッチ"
